@@ -39,18 +39,3 @@ The goals of this repository are to:
 This repository is meant to be read slowly and thoughtfully.
 
 ---
-
-## 📂 Repository Structure
-
-```text
-daily-ai-research-lab/
-│
-├── concepts/        # AI concepts explained clearly
-├── research-notes/  # Paper breakdowns and original thinking
-├── code/            # From-scratch implementations & experiments
-├── daily-posts/     # Daily learning & research log
-├── references/      # Books, papers, and external resources
-│
-├── README.md
-├── HOW_TO_USE.md
-└── ROADMAP.md
