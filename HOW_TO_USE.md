@@ -1,6 +1,3 @@
-
----
-```markdown
 # How to Use This Repository
 
 This document explains how to navigate and learn from this repository effectively.
