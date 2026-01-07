@@ -1,33 +1,20 @@
 import numpy as np
-import matplotlib.pyplot as plt
-from neural_network import NeuralNetwork
-from activations import sigmoid, tanh, relu
 
-def generate_data(n=200):
-    X = np.random.randn(n, 2)
-    y = (X[:, 0] ** 2 + X[:, 1] ** 2).reshape(-1, 1)
-    return X, y
+def relu(z):
+    return np.maximum(0, z)
 
-X, y = generate_data()
+def relu_grad(z):
+    return (z > 0).astype(float)
 
-losses = {}
+def sigmoid(z):
+    return 1 / (1 + np.exp(-z))
 
-for name in ["relu"]:
-    model = NeuralNetwork([2, 16, 16, 1], lr=0.01)
-    history = []
+def sigmoid_grad(z):
+    s = sigmoid(z)
+    return s * (1 - s)
 
-    for _ in range(200):
-        pred = model.predict(X)
-        history.append(np.mean((pred - y) ** 2))
-        model.fit(X, y, epochs=1)
+def tanh(z):
+    return np.tanh(z)
 
-    losses[name] = history
-
-for k, v in losses.items():
-    plt.plot(v, label=k)
-
-plt.title("Activation Function Training Behavior")
-plt.xlabel("Epoch")
-plt.ylabel("Loss")
-plt.legend()
-plt.show()
+def tanh_grad(z):
+    return 1 - np.tanh(z) ** 2
