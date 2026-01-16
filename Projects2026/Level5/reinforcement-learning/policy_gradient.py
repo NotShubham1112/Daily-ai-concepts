@@ -20,3 +20,4 @@ if __name__ == "__main__":
     new_weights = update_policy(weights, grads, rewards)
     print(f"Old Weights: {weights}")
     print(f"New Weights: {new_weights}")
+    
