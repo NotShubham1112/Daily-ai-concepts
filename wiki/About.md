@@ -115,6 +115,7 @@ A next-generation coding foundation model designed to:
 <div align="center">
 
 ### 📞 **Contact Information**
+- **🌐 Website:** [shubham-plum.vercel.app](http://shubham-plum.vercel.app/)
 - **📧 Email:** shubhamkambli1112@gmail.com
 - **💼 LinkedIn:** [in/shubham-kambli-720650339](https://linkedin.com/in/shubham-kambli-720650339)
 - **🐦 Twitter:** [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)
@@ -122,7 +123,7 @@ A next-generation coding foundation model designed to:
 
 ### 💬 **Community & Collaboration**
 - **💬 Discord:** [Join AI & ML Community](https://discord.gg/XA3ctdYZ)
-- **🏢 Company:** [x_conquestx](https://x-conquestx.com)
+- **🏢 COSMIC:** Next-generation coding foundation model
 - **📍 Location:** India (IST timezone)
 
 </div>
@@ -239,7 +240,9 @@ A next-generation coding foundation model designed to:
 
 <div align="center">
 
-**Ready to collaborate on AI, ML, or quant projects?**
+**Ready to collaborate on AI, ML, or coding foundation models?**
+
+**🌐 Visit:** [shubham-plum.vercel.app](http://shubham-plum.vercel.app/)
 
 **📧 Reach out:** shubhamkambli1112@gmail.com
 
