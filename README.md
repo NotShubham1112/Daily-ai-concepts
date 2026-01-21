@@ -1,4 +1,22 @@
-# 🤖 Machine Learning — Research-Graded Project & Concept Repository
+#  Machine Learning — Research-Graded Project & Concept Repository
+
+## 📋 Table of Contents
+- [🎯 Executive Summary](#-executive-summary)
+- [🏗️ Repository Structure](#️-repository-structure)
+- [⭐ What Makes This Repository Different](#-what-makes-this-repository-different)
+- [👥 Who This Repository Is For](#-who-this-repository-is-for)
+- [🧭 How to Navigate the Repository](#-how-to-navigate-the-repository)
+- [🎓 Research Applications & Academic Readiness](#-research-applications--academic-readiness)
+- [🎨 Author's Intent](#-authors-intent)
+
+## 🔗 Quick Access Links
+- 📚 **[Detailed Projects & Concepts](./research-notes/Projects2026.md)**
+- 📄 **[Portfolio Summary](./PORTFOLIO_SUMMARY.md)**
+- 🧮 **[Level 1: Math Foundations](./research-notes/LEVEL_1_RESEARCH_NOTES.md)**
+- ⚡ **[Level 6: ML Systems](./research-notes/LEVEL_6_RESEARCH_NOTES.md)**
+- 🚀 **[Flagship Projects](./research-notes/)** - PCA, Transformer, Causal Inference
+
+---
 
 ## 🎯 Executive Summary
 
@@ -28,7 +46,7 @@ The repository is systematically organized into **six progressive levels**, each
 
 ---
 
-### 📊 **LEVEL 1 — Mathematical & Statistical Foundations**
+### 📊 **[LEVEL 1 — Mathematical & Statistical Foundations](./research-notes/LEVEL_1_RESEARCH_NOTES.md)**
 🔢 **Core Focus**: Linear algebra, probability theory, optimization, and information theory as they manifest in learning algorithms
 
 🎯 **Key Areas**:
@@ -39,7 +57,7 @@ The repository is systematically organized into **six progressive levels**, each
 
 ---
 
-### 🧮 **LEVEL 2 — Classical Machine Learning (From Scratch)**
+### 🧮 **[LEVEL 2 — Classical Machine Learning (From Scratch)](./research-notes/LEVEL_2_RESEARCH_NOTES.md)**
 ⚙️ **Core Focus**: Core ML algorithms without high-level libraries, emphasizing first-principles understanding
 
 🎯 **Key Areas**:
@@ -51,7 +69,7 @@ The repository is systematically organized into **six progressive levels**, each
 
 ---
 
-### 🧠 **LEVEL 3 — Neural Networks & Deep Learning**
+### 🧠 **[LEVEL 3 — Neural Networks & Deep Learning](./research-notes/LEVEL_3_RESEARCH_NOTES.md)**
 🌊 **Core Focus**: Internal mechanics of neural architectures, from basic propagation to sophisticated deep learning systems
 
 🎯 **Key Areas**:
@@ -63,7 +81,7 @@ The repository is systematically organized into **six progressive levels**, each
 
 ---
 
-### 🎲 **LEVEL 4 — Probabilistic & Advanced Machine Learning**
+### 🎲 **[LEVEL 4 — Probabilistic & Advanced Machine Learning](./research-notes/LEVEL_4_RESEARCH_NOTES.md)**
 🔮 **Core Focus**: Learning under uncertainty and structured data representations
 
 🎯 **Key Areas**:
@@ -75,7 +93,7 @@ The repository is systematically organized into **six progressive levels**, each
 
 ---
 
-### 🔬 **LEVEL 5 — Research-Oriented Topics**
+### 🔬 **[LEVEL 5 — Research-Oriented Topics](./research-notes/LEVEL_5_RESEARCH_NOTES.md)**
 🚀 **Core Focus**: Contemporary research frontiers and reliability challenges in ML systems
 
 🎯 **Key Areas**:
@@ -87,7 +105,7 @@ The repository is systematically organized into **six progressive levels**, each
 
 ---
 
-### ⚡ **LEVEL 6 — ML Systems & Deployment**
+### ⚡ **[LEVEL 6 — ML Systems & Deployment](./research-notes/LEVEL_6_RESEARCH_NOTES.md)**
 🏭 **Core Focus**: Engineering and operational challenges of deploying ML in production environments
 
 🎯 **Key Areas**:
@@ -167,19 +185,22 @@ These qualities are essential for **research careers** and **advanced technical 
 ---
 
 ### 📚 **For Theoretical Grounding**
-🧮 Begin with **Level 1** to establish mathematical foundations, then progress sequentially through **Levels 2-6** to build comprehensive understanding.
+🧮 Begin with **[Level 1](./research-notes/LEVEL_1_RESEARCH_NOTES.md)** to establish mathematical foundations, then progress sequentially through **Levels 2-6** to build comprehensive understanding.
 
 ### 🧠 **For Deep Learning Focus**
-🌊 Jump directly to **Levels 3-4**, which cover neural network mechanics, attention mechanisms, and probabilistic modeling, then reference **Level 1** for mathematical prerequisites as needed.
+🌊 Jump directly to **[Level 3](./research-notes/LEVEL_3_RESEARCH_NOTES.md)** & **[Level 4](./research-notes/LEVEL_4_RESEARCH_NOTES.md)**, which cover neural network mechanics, attention mechanisms, and probabilistic modeling, then reference **[Level 1](./research-notes/LEVEL_1_RESEARCH_NOTES.md)** for mathematical prerequisites as needed.
 
 ### ⚡ **For Production Systems Emphasis**
-🏭 Explore **Level 6** for deployment architectures and operational constraints, then work backward through earlier levels to understand algorithmic foundations.
+🏭 Explore **[Level 6](./research-notes/LEVEL_6_RESEARCH_NOTES.md)** for deployment architectures and operational constraints, then work backward through earlier levels to understand algorithmic foundations.
 
 ### 🔬 **For Research Review**
 📖 Consult the **research notes** accompanying each level for conceptual insights, open questions, and connections to current literature rather than implementation details.
 
 ### 🎯 **For Selective Study**
-🔍 Use the progressive structure to identify knowledge gaps and focus on specific levels most relevant to current projects or research interests.
+🔍 Use the **[progressive structure](#️-repository-structure)** to identify knowledge gaps and focus on specific levels most relevant to current projects or research interests.
+
+### 🚀 **For Project Implementation**
+💻 Explore **[flagship projects](./research-notes/)** including PCA vs Autoencoders, Mini-Transformers, and Causal Inference frameworks for hands-on implementation examples.
 
 ---
 
@@ -218,6 +239,8 @@ These qualities are essential for **research careers** and **advanced technical 
 - 🧠 **Analytical thinking** required for thesis work
 - 🚀 **Initiative** beyond standard coursework requirements
 - 💡 **Potential** for contributing to cutting-edge research
+
+> 💼 **View detailed portfolio** → **[Portfolio Summary](./PORTFOLIO_SUMMARY.md)**
 
 ---
 
@@ -269,3 +292,39 @@ This repository is **deliberately constructed** to cultivate **research-grade ma
 Preparing practitioners for **research careers**, **technical leadership**, and **innovative system design** in machine learning.
 
 ---
+
+## 🔗 **Navigation Hub**
+
+<div align="center">
+
+### 📚 **Research Notes & Documentation**
+| Level | Topic | Link |
+|-------|-------|------|
+| 📊 **Level 1** | Mathematical Foundations | [Research Notes](./research-notes/LEVEL_1_RESEARCH_NOTES.md) |
+| 🧮 **Level 2** | Classical ML (From Scratch) | [Research Notes](./research-notes/LEVEL_2_RESEARCH_NOTES.md) |
+| 🧠 **Level 3** | Neural Networks & Deep Learning | [Research Notes](./research-notes/LEVEL_3_RESEARCH_NOTES.md) |
+| 🎲 **Level 4** | Probabilistic & Advanced ML | [Research Notes](./research-notes/LEVEL_4_RESEARCH_NOTES.md) |
+| 🔬 **Level 5** | Research-Oriented Topics | [Research Notes](./research-notes/LEVEL_5_RESEARCH_NOTES.md) |
+| ⚡ **Level 6** | ML Systems & Deployment | [Research Notes](./research-notes/LEVEL_6_RESEARCH_NOTES.md) |
+
+### 🚀 **Flagship Projects**
+- 🧮 **[PCA vs Autoencoder Study](./research-notes/FLAGHSHIP_PCA_AUTOENCODER.md)** - Linear vs non-linear dimensionality reduction
+- 🧠 **[Mini-Transformer Implementation](./research-notes/FLAGHSIP_MINI_TRANSFORMER.md)** - Complete attention architecture from scratch
+- ⚖️ **[Causal Inference Framework](./research-notes/FLAGHSIP_CAUSAL_INFERENCE.md)** - Do-calculus and effect estimation
+
+### 📋 **Key Resources**
+- 🎯 **[Portfolio Summary](./PORTFOLIO_SUMMARY.md)** - Quick overview for recruiters
+- 📚 **[Detailed Projects](./research-notes/Projects2026.md)** - Complete project catalog
+- 🏗️ **[Repository Structure](#️-repository-structure)** - Level-by-level breakdown
+
+### 🎯 **Quick Navigation**
+- [🔝 Back to Top](#-machine-learning--research-graded-project--concept-repository)
+- [🎯 Executive Summary](#-executive-summary)
+- [👥 Target Audience](#-who-this-repository-is-for)
+- [🧭 Navigation Guide](#-how-to-navigate-the-repository)
+
+---
+
+*🚀 **Ready to dive deep?** Start with [Level 1 Research Notes](./research-notes/LEVEL_1_RESEARCH_NOTES.md) for mathematical foundations, explore [flagship projects](./research-notes/) for implementation examples, or browse the [complete project catalog](./research-notes/Projects2026.md) for detailed concepts.*
+
+</div>
