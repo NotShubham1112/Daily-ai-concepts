@@ -12,19 +12,20 @@
 <div align="center">
 
 ### **Shubham Kambli**
-**Founder @x_conquestx** | **AI & Quant Developer** | **Open-Source Contributor**
+**Founder of COSMIC** | **AI Engineer** | **Open-Source Builder**
 
-*Building AI, Quant & Open-Source products • Turning research into real-world systems*  
-*B.Tech CSE • He/Him • India*
+*19-year-old Founder of COSMIC, AI engineer, and open-source builder creating production-ready tools at the intersection of artificial intelligence and software engineering*  
+*Computer Science Engineering • He/Him • India*
 
 #### 🌐 **Connect & Collaborate**
 - **📧 Email:** shubhamkambli1112@gmail.com
 - **💼 LinkedIn:** [in/shubham-kambli-720650339](https://linkedin.com/in/shubham-kambli-720650339)
 - **🐦 Twitter:** [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)
 - **💬 Discord:** [Join AI Community](https://discord.gg/XA3ctdYZ)
-- **🏢 Company:** [Conquest](https://x-conquestx.com)
+- **🌐 Website:** [shubham-plum.vercel.app](http://shubham-plum.vercel.app/)
+- **🏢 COSMIC:** [Next-generation coding foundation model]
 
-**🚀 Open to collaborations on AI research, quant trading, and open-source projects**
+**🚀 Building systems that will matter - AI research to real-world applications**
 
 </div>
 

@@ -3,12 +3,11 @@
 <div align="center">
 
 ### 👨‍💻 **Shubham Kambli**
-**Founder @x_conquestx** • **AI & Quant Developer**
+**Founder of COSMIC** • **AI Engineer** • **Open-Source Builder**
 
-*Building AI, Quant & Open-Source products • Turning research into real-world systems*  
-*B.Tech CSE • He/Him • India*
+*19-year-old Founder of COSMIC, AI engineer, and open-source builder creating production-ready tools at the intersection of artificial intelligence and software engineering*
 
-**📧 shubhamkambli1112@gmail.com** • **💼 [LinkedIn](https://linkedin.com/in/shubham-kambli-720650339)** • **🐦 [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)**
+**🌐 [shubham-plum.vercel.app](http://shubham-plum.vercel.app/)** • **📧 shubhamkambli1112@gmail.com** • **💼 [LinkedIn](https://linkedin.com/in/shubham-kambli-720650339)** • **🐦 [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)**
 
 **[📖 Full Portfolio](wiki/Portfolio.md)** • **[🏠 Wiki](wiki/Home.md)**
 
