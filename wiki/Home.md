@@ -7,6 +7,29 @@
 
 ---
 
+## 👨‍💻 **About the Creator**
+
+<div align="center">
+
+### **Shubham Kambli**
+**Founder @x_conquestx** | **AI & Quant Developer** | **Open-Source Contributor**
+
+*Building AI, Quant & Open-Source products • Turning research into real-world systems*  
+*B.Tech CSE • He/Him • India*
+
+#### 🌐 **Connect & Collaborate**
+- **📧 Email:** shubhamkambli1112@gmail.com
+- **💼 LinkedIn:** [in/shubham-kambli-720650339](https://linkedin.com/in/shubham-kambli-720650339)
+- **🐦 Twitter:** [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)
+- **💬 Discord:** [Join AI Community](https://discord.gg/XA3ctdYZ)
+- **🏢 Company:** [Conquest](https://x-conquestx.com)
+
+**🚀 Open to collaborations on AI research, quant trading, and open-source projects**
+
+</div>
+
+---
+
 ## 📋 **Quick Start Guide**
 
 Welcome to the **Daily AI Concepts** wiki! This comprehensive knowledge base covers machine learning from mathematical foundations to production systems.
@@ -128,8 +151,11 @@ Each project includes:
 
 ### 📋 **Quick Access**
 - **[🔝 Back to Repository](../README.md)** - Main repository page
+- **[👨‍💻 About the Creator](About.md)** - Personal background and mission
 - **[🗺️ Learning Roadmap](Roadmap.md)** - Study progression
-- **[📄 Portfolio Summary](../PORTFOLIO_SUMMARY.md)** - Professional overview
+- **[💻 Projects Catalog](Projects-Catalog.md)** - Code implementations guide
+- **[📄 Professional Portfolio](Portfolio.md)** - Career showcase
+- **[📄 Portfolio Summary](../PORTFOLIO_SUMMARY.md)** - Quick professional overview
 
 ### 🏷️ **Content Tags**
 - **🧮 Mathematics** - Linear algebra, probability, optimization

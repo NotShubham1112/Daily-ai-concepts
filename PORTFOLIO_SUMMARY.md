@@ -1,5 +1,21 @@
 # ML Research Portfolio Summary
 
+<div align="center">
+
+### 👨‍💻 **Shubham Kambli**
+**Founder @x_conquestx** • **AI & Quant Developer**
+
+*Building AI, Quant & Open-Source products • Turning research into real-world systems*  
+*B.Tech CSE • He/Him • India*
+
+**📧 shubhamkambli1112@gmail.com** • **💼 [LinkedIn](https://linkedin.com/in/shubham-kambli-720650339)** • **🐦 [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)**
+
+**[📖 Full Portfolio](wiki/Portfolio.md)** • **[🏠 Wiki](wiki/Home.md)**
+
+</div>
+
+---
+
 ## Core Focus
 Research-oriented machine learning repository emphasizing mathematical foundations, from-scratch implementations, and system-level thinking. Prioritizes understanding over tools, depth over breadth.
 

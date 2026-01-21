@@ -1,5 +1,20 @@
 #  Machine Learning — Research-Graded Project & Concept Repository
 
+<div align="center">
+
+### 👨‍💻 **Created by Shubham Kambli**
+**Founder @x_conquestx** • **AI & Quant Developer** • **Open-Source Contributor**
+
+*Building AI, Quant & Open-Source products • Turning research into real-world systems*
+
+**📧 shubhamkambli1112@gmail.com** • **💼 [LinkedIn](https://linkedin.com/in/shubham-kambli-720650339)** • **🐦 [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)**
+
+**[📖 View Full Portfolio](wiki/Portfolio.md)** • **[🏠 Wiki Home](wiki/Home.md)**
+
+</div>
+
+---
+
 ## 📋 Table of Contents
 - [🎯 Executive Summary](#-executive-summary)
 - [🏗️ Repository Structure](#️-repository-structure)
