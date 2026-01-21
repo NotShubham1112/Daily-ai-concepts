@@ -127,36 +127,12 @@ This repository demonstrates the core competencies that top graduate programs se
 
 ---
 
-## Author’s Intent
+## Author's Intent
 
-This repository is built to:
+This repository is deliberately constructed to cultivate research-grade machine learning intuition through systematic progression from mathematical foundations to production systems. The primary intent is to develop independent thinking and system-level understanding that transcends tool-specific knowledge.
 
-* Develop research-grade ML intuition
-* Enable independent system design
-* Serve as a long-term reference, not a checklist
+Rather than serving as a superficial checklist of techniques, the repository functions as a long-term intellectual framework for analyzing, designing, and critiquing machine learning systems. Each level builds conceptual depth that enables genuine mastery—understanding why algorithms work, when they fail, and how to extend them—rather than merely reproducing established results.
 
-The goal is **mastery**, not superficial coverage.
+The work emphasizes first-principles reasoning, critical analysis of assumptions, and the ability to connect theoretical insights with practical implementation, preparing practitioners for research careers, technical leadership, and innovative system design in machine learning.
 
 ---
-
-## Flagship Projects: Demonstrating Depth & Research Maturity
-
-### 🔬 PCA vs Autoencoder: Dimensionality Reduction Showdown
-**Level 1 • Mathematical Rigor**  
-From-scratch implementation comparing linear (PCA) and non-linear (Autoencoder) dimensionality reduction. Includes mathematical analysis of reconstruction error bounds, computational complexity comparison, and empirical evaluation on real datasets. Demonstrates understanding of when linear methods suffice vs. when non-linear representations are necessary.
-
-### 🧠 Mini-Transformer from Scratch
-**Level 3 • Implementation Complexity**  
-Complete transformer architecture implemented in NumPy, featuring multi-head attention, positional encoding, and layer normalization. Includes ablation studies on attention heads, gradient flow analysis, and comparison with RNN baselines. Shows deep understanding of modern sequence modeling.
-
-### ⚖️ Causal Effect Estimation Framework
-**Level 4 • Research Insight**  
-Implementation of causal inference methods including propensity score matching, instrumental variables, and do-calculus. Features synthetic data generation for testing, real-world application to observational data, and analysis of when causal claims can be made from observational studies.
-
-*These projects exemplify the repository's focus on mathematical depth, implementation rigor, and research-oriented thinking—qualities valued by top graduate programs and ML engineering teams.*
-
----
-
-## Status
-
-This repository is actively curated and expanded with an emphasis on quality, rigor, and clarity over volume.
